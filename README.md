@@ -14,7 +14,7 @@ To install dependencies required, Download this file - environment.yml <br>
 Use this command to create environment from the environment.yml file- <br><b>conda env create -f environment.yml</b>
 
  <h4> Steps to recreate </h4>
- To test the model:
+ To test the model:<br>
  Step 1- conda activate myenv<br>
  Step 2- Download all the files and pretrained weight of the model to a directory. Go to the directory.<br> 
  Step 3- Python test.py<br>
