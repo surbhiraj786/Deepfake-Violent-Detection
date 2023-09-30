@@ -16,9 +16,8 @@ Use this command to create environment from the environment.yml file- <br><b>con
  <h4> Steps to recreate </h4>
  To test the model:
  Step 1- conda activate myenv<br>
- Step 2- Download all the files and pretrained weight of the model to a directory. Go to the directory. 
- \newline
- Step 3- Python test.py
+ Step 2- Download all the files and pretrained weight of the model to a directory. Go to the directory.<br> 
+ Step 3- Python test.py<br>
  
 <h4> Note </h4>
  The newly introduced DVID dataset and training code will be available on the request.
