@@ -1,4 +1,4 @@
-<h1>Fake Detection System</h1>
+<h1>Detecting Violent Deepfakes</h1>
 
 <h4> Overview </h4>
 To detect fake and real violent images, a two-channel attention network that uses multi-scale frequency and noise features is proposed. Deepfake Violent Image Dataset (DVID) is also created in this study.
