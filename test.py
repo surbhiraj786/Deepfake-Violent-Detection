@@ -108,7 +108,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 print("XXXXX")
 #load trained model
-trainedModel = torch.load('/home/surbhi/docker_dfdv/fft_2Patcehes_main_model_ViolenceDS_15K_images_100epoch.pth')
+trainedModel = torch.load('model.pth')
 trainedModel = trainedModel.to(device)
 for param in trainedModel.parameters():
     param.requires_grad = False
