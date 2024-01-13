@@ -74,6 +74,7 @@ def readImage(imagePath):
       # Apply the hue transformation to the image      
       img = transform(image)
       img = np.array(img)
+      img = cv2.GaussianBlur(img, (5,5), 0.5)
   
       #img = cv2.resize(img, (112, 112))
       # Apply 2D Fourier Transform
