@@ -1,6 +1,7 @@
 <h1>Detecting Violent Deepfakes: Dataset and a Compact Attention Network with Multi-Scale
 Supervision</h1>
 ![image](https://github.com/surbhiraj786/Deepfake-Violent-Detection/assets/38296253/9caff3a4-94cc-4913-a649-a8746c4a548a)
+![Architecture](https://github.com/surbhiraj786/Deepfake-Violent-Detection/assets/38296253/57a1fbee-7e98-40e3-97f2-c4faf575305f)
 
 
 <h4> Overview </h4>
