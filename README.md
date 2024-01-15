@@ -1,10 +1,8 @@
 <h1>Detecting Violent Deepfakes: Dataset and a Compact Attention Network with Multi-Scale
 Supervision</h1>
-![Architecture](https://github.com/surbhiraj786/Deepfake-Violent-Detection/assets/38296253/aff62eca-1748-46da-9169-26292f767217)
-
-
 <h4> Overview </h4>
 To detect fake and real violent images, a two-channel attention network that uses multi-scale frequency and noise features is proposed. Deepfake Violent Image Dataset (DVID) is also created in this study.
+![Architecture](https://github.com/surbhiraj786/Deepfake-Violent-Detection/assets/38296253/aff62eca-1748-46da-9169-26292f767217)
 
 <h4> Dataset </h4>
 Dataset will be available on the request.
