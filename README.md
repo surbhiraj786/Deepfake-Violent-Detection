@@ -2,12 +2,10 @@
 Supervision</h1>
 <h4> Overview </h4>
 To detect fake and real violent images, a two-channel attention network that uses multi-scale frequency and noise features is proposed. Deepfake Violent Image Dataset (DVID) is also created in this study.
-
-![CVIU_Architect](https://github.com/surbhiraj786/Deepfake-Violent-Detection/assets/38296253/05c3c17a-dd6a-47e3-9d90-dfaa1e5866c6)
-
+<img width="3604" height="2928" alt="image" src="https://github.com/user-attachments/assets/fed24649-4170-4087-a8dc-a1f36ed44012" />
 
 <h4> Dataset </h4>
-Dataset will be available on the request.
+Dataset is available at the link: .
                                                            
                                                                                        
 <h4> Installation  </h4>
