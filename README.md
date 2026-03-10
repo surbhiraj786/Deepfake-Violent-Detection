@@ -5,7 +5,7 @@ To detect fake and real violent images, a two-channel attention network that use
 <img width="3604" height="2928" alt="image" src="https://github.com/user-attachments/assets/fed24649-4170-4087-a8dc-a1f36ed44012" />
 
 <h4> Dataset </h4>
-Dataset is available at the link: .
+Dataset is available at the GDrive link: https://drive.google.com/drive/folders/1_qLlkQVRPslKIUanB3S94i1Ro24NWILO?usp=sharing
                                                            
                                                                                        
 <h4> Installation  </h4>
